@@ -16,12 +16,7 @@ const proxyConfig = [
 ]
 
 const mockConfig = {
-  "GET": [{
-    "/react-gulp-es6/myrepo/getMyRepo": "./mock/myRepo/getMyRepo.json"
-  },
-  {
-    "/react-gulp-es6/webAddress/getAddress": "./mock/webAddress/getAddress.json"
-  }],
+  "GET": [{}],
   "POST": [{
 
   }]
